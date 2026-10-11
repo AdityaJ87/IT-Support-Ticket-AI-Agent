@@ -197,6 +197,3 @@ These are model-generated classifications, not guaranteed ground truth.
 - Integrate with a ticketing platform for controlled assignment and status updates.
 - Add authentication and role-based access for organizational deployment.
 
-## License
-
-Add a license only after confirming that you have the right to publish the code and included assets or data. If this project was created for a hackathon, review the event's rules before making the repository public.
